@@ -1,1 +1,1 @@
-# lulu
+Welcome to lulu's repository!
