@@ -1,5 +1,3 @@
-Welcome to lulu's repository!
+欢迎来到 lulu 的仓库！
 
-In this repository, you can play some interesting games and learn many skills. This repository will update when new project publishes.
-
-Have a good time on lulu's repository!
+目前仓库里共有 $1$ 个项目。
